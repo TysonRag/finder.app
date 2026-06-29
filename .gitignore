@@ -1,0 +1,9 @@
+node_modules/
+android/
+.DS_Store
+*.log
+
+# never commit your PHP secrets here
+config.php
+.env
+.env.txt
