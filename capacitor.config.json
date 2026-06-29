@@ -1,0 +1,12 @@
+{
+  "appId": "org.bereshithacademy.fundfinder",
+  "appName": "FundFinder SA",
+  "webDir": "www",
+  "server": {
+    "url": "https://bereshithacademy.org/finder/",
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
